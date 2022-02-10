@@ -3,6 +3,9 @@
 
 ### Formulário de Login e Registro
 
+![GitHub language count](https://img.shields.io/github/languages/count/hereisletticia/signin-signup)
+![GitHub top language](https://img.shields.io/github/languages/top/hereisletticia/signin-signup)
+![Twitter Follow](https://img.shields.io/twitter/follow/hereisletticia?label=%40hereisletticia&style=social)
 
 ![page screenshot](https://github.com/hereisletticia/signin-signup/blob/main/login-form.jpeg)
 
